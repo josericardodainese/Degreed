@@ -1,3 +1,5 @@
+package com.jose.ricardo.dainese
+
 class Application {
 
     static void sum(int numOne, int numTwo) {

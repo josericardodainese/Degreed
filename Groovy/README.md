@@ -1,0 +1,33 @@
+## Progress
+[Groovy Beginner Tutorial](https://degreed.com/pathway/dp6k73l6p7)
+
+- [x] Groovy Beginner Tutorial 1 | What is Groovy
+- [x] Groovy Beginner Tutorial 2 | How to install groovy on Windows os
+- [x] Groovy Beginner Tutorial 3 | How to install groovy on Mac OS
+- [x] Groovy Beginner Tutorial 4 | IDE and Text Editor for Groovy
+- [x] Groovy Beginner Tutorial 5 | How to install groovy on Eclipse
+- [x] Groovy Beginner Tutorial 6 | How to run groovy on Visual Studio Code
+- [x] Groovy Beginner Tutorial 7 | Getting Started with basic programming | Hello World
+- [x] Groovy Beginner Tutorial 8 | Variables
+- [ ] Groovy Beginner Tutorial 9 | Data Types
+- [ ] Groovy Beginner Tutorial 10 | Operators
+- [ ] Groovy Beginner Tutorial 11 | Conditional Statements | if else switch case
+- [ ] Groovy Beginner Tutorial 12 | Loops in Groovy
+- [ ] Groovy Beginner Tutorial 13 | Exception Handling
+- [ ] Groovy Beginner Tutorial 14 | Strings
+- [ ] Groovy Beginner Tutorial 15 | Methods
+- [ ] Groovy Beginner Tutorial 16 | Closures
+- [ ] Groovy Beginner Tutorial 17 | Lists
+- [ ] Groovy Beginner Tutorial 18 | Maps
+- [ ] Groovy Beginner Tutorial 19 | Ranges
+- [ ] Groovy Beginner Tutorial 20 | Input & Output
+- [ ] Groovy Beginner Tutorial 21 | How to read files in groovy
+- [ ] Groovy Beginner Tutorial 22 | How to write files in Groovy | File IO
+- [ ] Groovy Beginner Tutorial 23 | OOP | Classes & Objects
+- [ ] Groovy Beginner Tutorial 24 | OOP | Example 1
+- [ ] Groovy Beginner Tutorial 25 | OOP | Example 2
+- [ ] Groovy Beginner Tutorial 26 | OOP | Example 3
+- [ ] Groovy Beginner Tutorial 27 | OOP | Inheritance and Method Overriding
+- [ ] Groovy Beginner Tutorial 29 | OOP | Abstract class with example
+- [ ] Groovy Beginner Tutorial 30 | OOP | Interface
+- [ ] Groovy Beginner Tutorial 31 | Regular Expressions
